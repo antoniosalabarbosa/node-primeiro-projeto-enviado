@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node index",
+    "start": "node index.js",
     "go": "nodemon index.js"
   },
   "devDependencies": {
