@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index",
+    "go": "nodemon index.js"
+  },
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
